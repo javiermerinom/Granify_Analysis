@@ -1,7 +1,7 @@
 # Granify_Analysis
 
 ## 🏗️ Project Context
-This was a research project developed as a team work for the third term of the Post-Degree Diploma in Data Analytics in Langara College.
+This was a research project developed as teamwork for the third term of the Post-Degree Diploma in Data Analytics in Langara College.
 
 ## 📌 Project Overview 
 This project analyzes session-level user data from an e-commerce platform to evaluate the effectiveness of different marketing strategies. Using exploratory data analysis, data visualization, and machine learning models, the goal was to understand user behavior, assess ad performance, and derive actionable insights to optimize marketing campaigns.
@@ -56,5 +56,5 @@ This project analyzes session-level user data from an e-commerce platform to eva
 ├── Data/              # Raw data
 ├── Src/           # Jupiter Notebook scripts for analysis and modelling
 ├── Documentation/   # Final project report and presentation
-└── README.md          # Project documentation
+└── README.md          # Project description
 ```
