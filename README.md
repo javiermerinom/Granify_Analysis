@@ -58,3 +58,10 @@ This project analyzes session-level user data from an e-commerce platform to eva
 ├── Documentation/   # Final project report and presentation
 └── README.md          # Project description
 ```
+
+## 🙌 Acknowledgments  
+Developed by:  
+- Javier Merino  
+- Meyliani Sanjaya  
+- Angeli De los Reyes  
+- Nay Zaw Lin  
