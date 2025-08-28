@@ -1,4 +1,4 @@
-# Granify_Analysis
+# Granify_Classification_Analysis
 
 ## 🏗️ Project Context
 This was a research project developed as teamwork for the third term of the Post-Degree Diploma in Data Analytics in Langara College.
